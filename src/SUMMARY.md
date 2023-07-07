@@ -1,7 +1,6 @@
 # Summary
 
 - [Chapter 1: Introduction](README.md)
-  - [Overview of the book](chapter-1-1.md)
   - [Why exploring the intersection of artificial intelligence and writing is important for the future of communication](chapter-1-2.md)
 - [Chapter 2: Understanding AI in Communication](chapter-2.md)
   - [Historical overview of AI in communication](chapter-2-1.md)
