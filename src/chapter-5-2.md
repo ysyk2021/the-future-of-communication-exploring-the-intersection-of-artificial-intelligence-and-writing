@@ -1,5 +1,3 @@
-Chatbots and Virtual Assistants
-===============================================================================
 
 Chatbots and virtual assistants powered by AI are becoming increasingly prevalent in communication. In this chapter, we explore some of the applications of AI in chatbots and virtual assistants.
 

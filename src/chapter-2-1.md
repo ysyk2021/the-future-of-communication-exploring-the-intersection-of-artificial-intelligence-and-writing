@@ -1,5 +1,3 @@
-Historical Overview of AI in Communication
-========================================================================================
 
 Artificial Intelligence (AI) has been a topic of interest for decades, and its potential applications in communication have been explored since the early days of computing. In this chapter, we will provide a historical overview of AI in communication, highlighting key developments and milestones.
 

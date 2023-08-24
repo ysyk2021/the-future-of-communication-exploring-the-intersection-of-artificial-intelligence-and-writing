@@ -1,5 +1,3 @@
-Chapter 7: Managing AI in Communication
-=======================================
 
 Effective management of AI is critical to ensure ethical, responsible, and effective use of this technology in communication. In this chapter, we explore some strategies for managing AI in communication.
 

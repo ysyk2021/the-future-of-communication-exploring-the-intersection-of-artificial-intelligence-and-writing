@@ -1,5 +1,3 @@
-Data Management
-========================================================
 
 Effective data management is essential for maximizing the benefits of AI in communication. In this chapter, we explore some strategies for managing data when using AI in communication.
 

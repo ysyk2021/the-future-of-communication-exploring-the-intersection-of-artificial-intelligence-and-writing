@@ -1,5 +1,3 @@
-How AI Works in Communication
-===========================================================================
 
 Artificial Intelligence (AI) is transforming the way we communicate and interact with each other. In this chapter, we will explore how AI works in communication.
 

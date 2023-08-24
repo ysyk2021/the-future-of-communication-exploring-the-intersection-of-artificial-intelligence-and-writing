@@ -1,5 +1,3 @@
-Types of AI in communication
-==========================================================================
 
 Artificial Intelligence (AI) is transforming the way we communicate and interact with each other. In this chapter, we will explore the different types of AI used in communication.
 

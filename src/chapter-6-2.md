@@ -1,5 +1,3 @@
-Overcoming Resistance to Change
-============================================================================
 
 Resistance to change is a common challenge when implementing new technology, including AI. In this chapter, we explore some strategies for overcoming resistance to change when implementing AI in communication.
 

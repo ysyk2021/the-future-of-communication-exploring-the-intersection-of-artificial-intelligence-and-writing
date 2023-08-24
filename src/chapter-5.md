@@ -1,5 +1,3 @@
-Chapter 5: Applications of AI in Communication
-==============================================
 
 Artificial Intelligence (AI) has the potential to transform the way we communicate, and there are a number of applications of AI in communication that are already being used today. In this chapter, we will explore some of these applications, including natural language processing, chatbots and virtual assistants, and content creation and curation.
 

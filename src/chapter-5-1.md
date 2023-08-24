@@ -1,5 +1,3 @@
-Natural Language Processing
-===========================================================================
 
 Natural Language Processing (NLP) is a field of Artificial Intelligence (AI) that focuses on the interaction between computers and human language. NLP has numerous applications in communication, and it is already being used in a variety of ways to improve the way we communicate.
 

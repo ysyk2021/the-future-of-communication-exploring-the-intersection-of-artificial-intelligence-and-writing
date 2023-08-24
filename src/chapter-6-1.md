@@ -1,5 +1,3 @@
-Developing an AI Strategy
-======================================================================
 
 Developing an AI strategy is essential for successfully implementing AI in communication. In this chapter, we explore the key steps involved in developing an AI strategy.
 

@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI in Communication
-============================================
 
 Artificial Intelligence (AI) is transforming the way we communicate and interact with each other. In this chapter, we will explore the different types of AI used in communication, how it works, and its historical development.
 

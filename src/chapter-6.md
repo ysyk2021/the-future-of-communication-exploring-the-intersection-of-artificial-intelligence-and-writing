@@ -1,5 +1,3 @@
-Chapter 6: Implementing AI in Communication
-===========================================
 
 In this chapter, we explore how organizations can successfully implement AI in communication. We discuss developing an AI strategy, overcoming resistance to change, and best practices for implementation.
 
