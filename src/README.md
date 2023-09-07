@@ -10,3 +10,7 @@ Throughout the book, we'll draw on examples from a range of industries -- from m
 Ultimately, our goal is to provide readers with a comprehensive overview of the intersection of AI and writing in the context of communication. We hope that this book will inspire readers to think critically about the role of technology in communication and to consider the opportunities and challenges that lie ahead.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
