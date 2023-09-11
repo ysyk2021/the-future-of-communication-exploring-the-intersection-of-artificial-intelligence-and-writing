@@ -1,5 +1,4 @@
-Chapter 5: Data Management
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the crucial aspect of data management within the context of artificial intelligence (AI) and writing. Effective data management is at the heart of modern communication, as it enables the seamless integration of AI into various writing processes. Whether it's content generation, language translation, or sentiment analysis, AI relies heavily on data.
 

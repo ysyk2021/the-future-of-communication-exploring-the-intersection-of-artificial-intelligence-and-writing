@@ -1,5 +1,4 @@
-Chapter 4: Developing an AI Strategy
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of communication, crafting a well-defined artificial intelligence (AI) strategy is paramount. This chapter explores the essential elements and steps for developing a robust AI strategy that can empower organizations to harness the potential of AI in communication.
 

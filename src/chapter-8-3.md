@@ -1,5 +1,4 @@
-Chapter 9: Preparing for the Future
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter, we turn our attention to the steps individuals, organizations, and society as a whole must take to prepare for the future of communication at the intersection of artificial intelligence (AI) and writing. As AI continues to shape the landscape of communication, readiness and adaptability become paramount in harnessing its potential for the benefit of all stakeholders.
 

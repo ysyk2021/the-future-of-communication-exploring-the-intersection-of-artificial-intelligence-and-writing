@@ -1,5 +1,4 @@
-Chapter 6: Overcoming Resistance to Change
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Change is inevitable, especially in the rapidly evolving landscape of communication and artificial intelligence (AI). This chapter delves into the common sources of resistance to change in the context of AI-driven communication and strategies to overcome them.
 

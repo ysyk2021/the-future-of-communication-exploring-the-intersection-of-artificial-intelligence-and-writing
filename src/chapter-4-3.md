@@ -1,5 +1,4 @@
-Chapter 7: Privacy and Security Concerns
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As the realms of artificial intelligence (AI) and writing intersect in the future of communication, it's crucial to address the paramount concerns surrounding privacy and security. This chapter delves into the multifaceted issues, challenges, and solutions related to safeguarding privacy and security in AI-driven communication.
 

@@ -1,5 +1,4 @@
-Chapter 4: Increased Personalization and Engagement
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the transformative impact of artificial intelligence (AI) on communication, particularly focusing on how AI-driven personalization is enhancing engagement between individuals and content. As AI technologies continue to evolve, they are redefining the way content is tailored to individual preferences and fostering deeper connections in the digital realm.
 

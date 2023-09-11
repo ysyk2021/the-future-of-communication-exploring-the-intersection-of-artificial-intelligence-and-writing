@@ -1,5 +1,4 @@
-Chapter 8: Best Practices for Implementation
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective implementation of artificial intelligence (AI) in communication is essential to maximize its benefits while ensuring ethical and responsible use. This chapter outlines best practices for successfully integrating AI into the realm of communication.
 

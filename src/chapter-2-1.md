@@ -1,5 +1,4 @@
-Chapter 2: Historical Overview of AI in Communication
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To understand the future of communication at the intersection of artificial intelligence (AI) and writing, it is essential to explore the historical roots of AI's involvement in communication. This chapter provides a chronological overview of key milestones and developments in this evolving field.
 

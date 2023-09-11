@@ -1,5 +1,4 @@
-Chapter 5: Content Creation and Curation
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the exploration of the future of communication at the intersection of artificial intelligence (AI) and writing, content creation and curation stand as pivotal aspects. This chapter delves into the dynamic landscape of content, highlighting the role of AI in both generating and curating information for diverse communication platforms.
 

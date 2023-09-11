@@ -1,5 +1,4 @@
-Chapter 9: Legal Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the dynamic landscape of communication intersecting with artificial intelligence (AI) and writing, it is imperative to navigate a complex web of legal considerations. This chapter delves into the critical legal aspects that need to be addressed when exploring the future of communication with AI.
 

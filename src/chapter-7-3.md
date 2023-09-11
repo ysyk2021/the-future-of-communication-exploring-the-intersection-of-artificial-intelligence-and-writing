@@ -1,5 +1,4 @@
-Chapter 7: Addressing Potential Bias
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the critical issue of addressing potential bias in artificial intelligence (AI) and writing, focusing on the challenges, strategies, and ethical considerations involved. As AI becomes increasingly integrated into communication processes, understanding and mitigating bias is of paramount importance.
 

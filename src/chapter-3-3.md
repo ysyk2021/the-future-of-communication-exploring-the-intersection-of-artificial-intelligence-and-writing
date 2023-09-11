@@ -1,5 +1,4 @@
-Chapter 6: Improved Accessibility and Inclusivity
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how the intersection of artificial intelligence and writing is paving the way for improved accessibility and inclusivity in communication. As AI technologies continue to advance, they are increasingly becoming tools to bridge communication gaps and empower individuals who may have previously faced barriers in accessing information and participating in written communication.
 

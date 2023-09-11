@@ -1,5 +1,4 @@
-Chapter 7: Emerging Trends
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the exciting and transformative emerging trends at the intersection of artificial intelligence (AI) and writing. As AI technologies continue to evolve, they are giving rise to innovative approaches and possibilities that have the potential to reshape the future of communication in profound ways.
 

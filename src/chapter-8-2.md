@@ -1,5 +1,4 @@
-Chapter 8: Potential Challenges and Opportunities
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the complex landscape of potential challenges and opportunities at the intersection of artificial intelligence (AI) and writing in the future of communication. As AI technologies continue to evolve, they present both promising prospects and significant hurdles that we must navigate to shape a more equitable and effective communication landscape.
 

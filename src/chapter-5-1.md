@@ -1,5 +1,4 @@
-Chapter 3: Natural Language Processing
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the fascinating world of Natural Language Processing (NLP) and its pivotal role in shaping the future of communication. NLP is a branch of artificial intelligence that focuses on enabling machines to understand, interpret, and generate human language. As AI and writing intersect, NLP plays a crucial role in enhancing communication across various domains.
 

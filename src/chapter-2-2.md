@@ -1,5 +1,4 @@
-Chapter 4: Types of AI in Communication
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the exploration of the future of communication at the intersection of artificial intelligence (AI) and writing, it's essential to understand the diverse roles that AI plays. This chapter categorizes and explains the various types of AI in communication, shedding light on their distinct functions and applications.
 

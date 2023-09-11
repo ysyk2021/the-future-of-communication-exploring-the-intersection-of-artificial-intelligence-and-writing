@@ -1,5 +1,4 @@
-Chapter 3: How AI Works in Communication
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the exploration of the future of communication at the intersection of artificial intelligence (AI) and writing, it's essential to grasp how AI functions within the communication landscape. This chapter delves into the fundamental workings of AI in communication, shedding light on the processes that enable AI to enhance and transform our modes of interaction.
 
